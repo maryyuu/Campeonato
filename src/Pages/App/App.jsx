@@ -4,7 +4,9 @@ function App() {
   
   return (
     <>
+    <div className="flex justify-center">
     <Campeonato/>
+    </div>
     </>
   )
 }
